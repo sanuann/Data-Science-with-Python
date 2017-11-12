@@ -1,6 +1,6 @@
 ## Projects:
 ### 1. Titanic challenge - Kaggle
-### 2. [Housing Prices in College Towns during Recession] (https://github.com/sanuann/Data-Science-with-Python/blob/master/src/Housing%20Prices.ipynb)
+### 2. [Housing Prices in College Towns during Recession](https://github.com/sanuann/Data-Science-with-Python/blob/master/src/Housing%20Prices.ipynb)
 We test whether university towns significantly different mean housing prices during recessions from non-university towns. We run a t-test to compare the ratio of the mean price of houses in university towns the quarter before the recession starts compared to the recession bottom. We find that university towns have a lower market loss during recessions.
 
 The following data files are used in this project:
